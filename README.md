@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodingTrainDave
+- 👋 Hi, I’m CodingTrainDave
 - 👀 I’m interested in learning how to collaborate on code
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on learning to code
