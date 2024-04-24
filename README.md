@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning to code
 - 📫 How to reach me circuitstudent@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: If you cut the whiskers off of a rat's face, they will swim in circles.
+- ⚡ Fun fact: If you cut the whiskers off of one side of a rat's face, they will swim in circles.
 
 <!---
 CodingTrainDave/CodingTrainDave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
